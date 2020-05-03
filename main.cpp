@@ -1,8 +1,6 @@
 #include <iostream>
 
-using namespace  std;
-
 int main() {
-cout<<"bellaaaa"<<endl;
+cout<<"bellaaaa triplo 7"<<endl;
     return 0;
 }
